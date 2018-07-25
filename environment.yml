@@ -1,4 +1,4 @@
-name: mcscan-binderized
+name: mcscan-blast-binderized
 channels:
   - conda-forge
   - bioconda
