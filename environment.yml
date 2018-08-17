@@ -15,6 +15,7 @@ dependencies:
   - regex
   - blast>=2.7.1
   - perl=5.22.0.1
+  - papermill
   - pip:
     - jcvi
     - gffutils
